@@ -1,0 +1,3 @@
+The data is not uploaded due to the size being 29 GB.
+Please run the script data_load_v2.py manually multiple times to load 
+chunks of processed data here.
